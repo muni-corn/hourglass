@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Hourglass</string>
+
+    <plurals name="years">
+        <item quantity="one">%s year</item>
+        <item quantity="other">%s years</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one">%s day</item>
+        <item quantity="other">%s days</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%s hour</item>
+        <item quantity="other">%s hours</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%s minute</item>
+        <item quantity="other">%s minutes</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%s second</item>
+        <item quantity="other">%s seconds</item>
+    </plurals>
+
+    <string name="action_edit">Edit</string>
+	<string name="remaining">%s remaining</string>
+	<string name="about_remaining">About %s remaining</string>
+	<string name="less_than_remaining">Less than %s remaining</string>
+	<string name="less_than_minute_remaining">Less than a minute remaining</string>
+	<string name="time_ago">%s ago</string>
+    <string name="about_ago">About %s ago</string>
+    <string name="more_than_ago">More than %s ago</string>
+	<string name="now">Now</string>
+    <string name="anniversary_in">%1$s in %2$s</string>
+    <string name="anniversary_was_ago">%1$s was %2$s ago</string>
+
+	<string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="done">Done</string>
+    <string name="show_years">Years</string>
+    <string name="new_hourglass">New Hourglass</string>
+    <string name="units_to_show_header">Units to show</string>
+    <string name="show_days">Days</string>
+    <string name="show_hours">Hours</string>
+    <string name="show_minutes">Minutes</string>
+    <string name="show_seconds">Seconds</string>
+    <string name="action_delete">Delete</string>
+    <string name="decimal_places">Decimal places</string>
+    <string name="subtract_decimal_place">Subtract decimal place</string>
+    <string name="add_decimal_place">Add decimal place</string>
+    <string name="show_at_least_one_unit">Select at least one unit to show.</string>
+    <string name="hourglass_background_image">Hourglass background image</string>
+    <string name="choose_background">Choose background</string>
+    <string name="hourglass_deleted">\"%s\" deleted</string>
+    <string name="undo">Undo</string>
+    <string name="ago">ago</string>
+	<string name="edit_hourglass">Edit Hourglass</string>
+	<string name="past">Past</string>
+	<string name="countdowns_channel_name">Countdowns</string>
+</resources>
